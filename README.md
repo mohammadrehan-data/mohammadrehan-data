@@ -9,14 +9,7 @@ I bridge the gap between complex data and strategic business decisions using dat
 
 
 ### 🧰 Tech Stack & Tools
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" alt="Python" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" width="50" height="50" alt="SQL" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/powerbi.svg" width="50" height="50" alt="Power BI" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tableau.svg" width="50" height="50" alt="Tableau" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" width="50" height="50" alt="Notion" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftexcel.svg" width="50" height="50" alt="Excel" />
-</p>
+
    
      
 
