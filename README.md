@@ -9,7 +9,13 @@ I bridge the gap between complex data and strategic business decisions using dat
 
 
 - ### 🛠️ Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=python,sql,powerbi,tableau,excel)](https://skillicons.dev)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" style="background-color: #1a1a1a; padding: 10px; border-radius: 12px; margin-right: 8px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL" width="50" height="50" style="background-color: #1a1a1a; padding: 10px; border-radius: 12px; margin-right: 8px;" />
+  <img src="https://cdn.simpleicons.org/powerbi/#F2C811" alt="Power BI" width="50" height="50" style="background-color: #1a1a1a; padding: 10px; border-radius: 12px; margin-right: 8px;" />
+  <img src="https://cdn.simpleicons.org/tableau/#E97627" alt="Tableau" width="50" height="50" style="background-color: #1a1a1a; padding: 10px; border-radius: 12px; margin-right: 8px;" />
+  <img src="https://cdn.simpleicons.org/microsoftexcel/#217346" alt="Excel" width="50" height="50" style="background-color: #1a1a1a; padding: 10px; border-radius: 12px;" />
+</p>
 
 
 ### 📈 Featured Projects
