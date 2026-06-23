@@ -9,7 +9,7 @@ I bridge the gap between complex data and strategic business decisions using dat
 
 
 - ### 🛠️ Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=python,postgres,powerbi,tableau,excel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,sql,powerbi,tableau,excel)](https://skillicons.dev)
 
 
 ### 📈 Featured Projects
