@@ -8,8 +8,14 @@ I bridge the gap between complex data and strategic business decisions using dat
 - 🌱 **Learning:** Advanced Python automation and cloud data warehousing (AWS/Snowflake).
 
 
-- ### 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+### 🧰 Tech Stack & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+</p>
 
 
 ### 📈 Featured Projects
@@ -19,15 +25,33 @@ I bridge the gap between complex data and strategic business decisions using dat
 ### 📈 Featured Projects
 *   **[Project Name](Link to Repo):** Financial Performance Dashboard built in Power BI, tracking $2M+ in revenue across 5 regions.
 *   **[Project Name](Link to Repo):** E-commerce Customer Segmentation using Python (K-Means Clustering) and SQL for data extraction.
+
+
+### 📈 My GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radial&hide_border=false" alt="GitHub Stats" height="180" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radial&hide_border=false" alt="Top Languages" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radial&hide_border=false" alt="GitHub Streak" />
+</p>
 
 
 ---
 ### 🤝 Let's Connect
-[![Website](https://img.shields.io/badge/Website-24292e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-24292e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-24292e?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+<p align="left">
+  <a href="YOUR_WEBSITE_URL" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
-  <a href="https://linkedin.com/in/yourusername" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/#0A66C2" alt="LinkedIn" width="45" height="45" style="background-color: #1a1a1a; padding: 10px; border-radius: 12px;" />
+
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <a href="mailto:YOUR_EMAIL@EXAMPLE.COM" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
