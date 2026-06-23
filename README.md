@@ -41,7 +41,6 @@ I bridge the gap between complex data and strategic business decisions using dat
 
 ---
 ### 🤝 Let's Connect
-<p align="left">
   <!-- Portfolio Website -->
 <p align="left">
   <a href="APNI_WEBSITE_KA_LINK_HERE" target="_blank">
