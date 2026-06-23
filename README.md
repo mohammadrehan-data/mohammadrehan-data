@@ -9,7 +9,9 @@ I bridge the gap between complex data and strategic business decisions using dat
 
 
 ### 🧰 Tech Stack & Tools
-[![My Skills](https://skillicons.dev/icons?i=python,pandas,numpy,notion&theme=dark)](https://skillicons.dev)
+<p align="left">
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?line1=python,sql,pandas,numpy&line2=microsoft-excel,power-bi,tableau,notion&theme=dark" alt="My Tech Stack" />
+</p>
 
 
 ### 📈 Featured Projects
