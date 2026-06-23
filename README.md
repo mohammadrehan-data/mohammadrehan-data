@@ -10,14 +10,13 @@ I bridge the gap between complex data and strategic business decisions using dat
 
 ### 🧰 Tech Stack & Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/-%20?style=for-the-badge&logo=python&logoColor=white&color=1e222a" alt="Python" height="40"/>
-  <img src="https://img.shields.io/badge/-%20?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&color=1e222a" alt="SQL" height="40"/>
-  <img src="https://img.shields.io/badge/-%20?style=for-the-badge&logo=pandas&logoColor=white&color=1e222a" alt="Pandas" height="40"/>
-  <img src="https://img.shields.io/badge/-%20?style=for-the-badge&logo=numpy&logoColor=white&color=1e222a" alt="NumPy" height="40"/>
-  <img src="https://img.shields.io/badge/-%20?style=for-the-badge&logo=microsoftexcel&logoColor=33c481&color=1e222a" alt="Excel" height="40"/>
-  <img src="https://img.shields.io/badge/-%20?style=for-the-badge&logo=powerbi&logoColor=f2c811&color=1e222a" alt="Power BI" height="40"/>
-  <img src="https://img.shields.io/badge/-%20?style=for-the-badge&logo=tableau&logoColor=white&color=1e222a" alt="Tableau" height="40"/>
-  <img src="https://img.shields.io/badge/-%20?style=for-the-badge&logo=notion&logoColor=white&color=1e222a" alt="Notion" height="40"/>
+  <!-- The official icons that exist in that style -->
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,notion" /></a>
+  <!-- Hand-crafted exact visual matches for your data tools -->
+  <img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="50" style="border-radius:10px; margin-left: 4px;" />
+  <img src="https://img.shields.io/badge/-SQL-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="50" style="border-radius:10px; margin-left: 4px;" />
+  <img src="https://img.shields.io/badge/-Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="50" style="border-radius:10px; margin-left: 4px;" />
+  <img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="50" style="border-radius:10px; margin-left: 4px;" />
 </p>
 
 
