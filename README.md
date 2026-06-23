@@ -10,13 +10,14 @@ I bridge the gap between complex data and strategic business decisions using dat
 
 ### 🧰 Tech Stack & Tools
 <p align="left">
-  <!-- The official icons that exist in that style -->
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,notion" /></a>
-  <!-- Hand-crafted exact visual matches for your data tools -->
-  <img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="50" style="border-radius:10px; margin-left: 4px;" />
-  <img src="https://img.shields.io/badge/-SQL-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="50" style="border-radius:10px; margin-left: 4px;" />
-  <img src="https://img.shields.io/badge/-Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="50" style="border-radius:10px; margin-left: 4px;" />
-  <img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="50" style="border-radius:10px; margin-left: 4px;" />
+  <!-- Natively supported identical square icons -->
+  <img src="https://skillicons.dev/icons?i=python,notion,numpy,pytorch" height="50" alt="Python, Notion, NumPy, PyTorch" />
+  
+  <!-- Matching style icon-only squares for the remaining tools -->
+  <img src="https://img.shields.io/badge/--1a1b26?style=flat&logo=microsoftexcel&logoColor=217346" height="50" alt="Excel" />
+  <img src="https://img.shields.io/badge/--1a1b26?style=flat&logo=microsoftsqlserver&logoColor=CC292B" height="50" alt="SQL" />
+  <img src="https://img.shields.io/badge/--1a1b26?style=flat&logo=powerbi&logoColor=F2C811" height="50" alt="Power BI" />
+  <img src="https://img.shields.io/badge/--1a1b26?style=flat&logo=tableau&logoColor=E97627" height="50" alt="Tableau" />
 </p>
 
 
