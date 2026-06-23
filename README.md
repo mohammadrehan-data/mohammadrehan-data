@@ -44,15 +44,7 @@ I bridge the gap between complex data and strategic business decisions using dat
   <!-- Portfolio Website -->
 <p align="left">
   <a href="APNI_WEBSITE_KA_LINK_HERE" target="_blank">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="40" height="40" style="vertical-align: middle;">
-      <rect width="128" height="128" rx="26" fill="#181A23"/>
-      <text x="64" y="44" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="17" font-weight="900" fill="#FFFFFF" text-anchor="middle" letter-spacing="0.3">PORTFOLIO</text>
-      <path d="M52 54 h20 l10 10 v14 h-30 z" fill="#FFFFFF"/>
-      <path d="M72 54 v10 h10" fill="#181A23"/>
-      <rect x="84" y="60" width="6" height="22" rx="1" transform="rotate(45 87 71)" fill="#FFFFFF"/>
-      <path d="M36 104 l7 -26 h54 l-7 26 z" fill="#FFFFFF"/>
-    </svg>
-  </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/PORTFOLIO-181A23?style=for-the-badge&logoColor=white" height="40" style="vertical-align: middle;" alt="Portfolio" />
    
   <!-- LinkedIn -->
   <a href="APNI_LINKEDIN_PROFILE_KA_LINK_HERE" target="_blank">
