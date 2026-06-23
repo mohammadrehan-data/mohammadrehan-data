@@ -43,8 +43,8 @@ I bridge the gap between complex data and strategic business decisions using dat
 ### 🤝 Let's Connect
   <!-- Portfolio Website -->
 <p align="left">
- <a href="APNI_WEBSITE_KA_LINK_HERE" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Website.png" alt="Website" height="40" width="40" style="vertical-align: middle;" />
+<a href="APNI_WEBSITE_KA_LINK_HERE" target="_blank">
+    <img src="https://img.icons8.com/color/48/globe--v1.png" alt="Website" height="40" width="40" style="vertical-align: middle;" />
   </a>&nbsp;&nbsp;
   
   <!-- LinkedIn -->
