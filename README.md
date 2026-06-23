@@ -9,11 +9,13 @@ I bridge the gap between complex data and strategic business decisions using dat
 
 
 - ### 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+<p align="left">
+  <img src="https://simpleicons.org/icons/python.svg" alt="Python" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://simpleicons.org/icons/microsoftsqlserver.svg" alt="SQL" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://simpleicons.org/icons/powerbi.svg" alt="Power BI" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://simpleicons.org/icons/tableau.svg" alt="Tableau" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://simpleicons.org/icons/microsoftexcel.svg" alt="Excel" width="40" height="40" />
+</p>
 
 
 ### 📈 Featured Projects
