@@ -42,15 +42,18 @@ I bridge the gap between complex data and strategic business decisions using dat
 ---
 ### 🤝 Let's Connect
 <p align="left">
-  <a href="YOUR_WEBSITE_URL" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
-  </a>
-
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-
-  <a href="contact.mohammadrehan@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <!-- Portfolio Website -->
+  <a href="APNI_WEBSITE_KA_LINK_HERE" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" alt="Portfolio" height="40" />
+  </a>&nbsp;&nbsp;
+  
+  <!-- LinkedIn -->
+  <a href="APNI_LINKEDIN_PROFILE_KA_LINK_HERE" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
+  </a>&nbsp;&nbsp;
+  
+  <!-- Email -->
+  <a href="mailto:APNA_EMAIL_HERE@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40" />
   </a>
 </p>
