@@ -11,13 +11,7 @@ I bridge the gap between complex data and strategic business decisions using dat
 ### 🧰 Tech Stack & Tools
 <p align="left">
   <!-- Natively supported identical square icons -->
-  <img src="https://skillicons.dev/icons?i=python,notion,numpy,pytorch" height="50" alt="Python, Notion, NumPy, PyTorch" />
-  
-  <!-- Matching style icon-only squares for the remaining tools -->
-  <img src="https://img.shields.io/badge/--1a1b26?style=flat&logo=microsoftexcel&logoColor=217346" height="50" alt="Excel" />
-  <img src="https://img.shields.io/badge/--1a1b26?style=flat&logo=microsoftsqlserver&logoColor=CC292B" height="50" alt="SQL" />
-  <img src="https://img.shields.io/badge/--1a1b26?style=flat&logo=powerbi&logoColor=F2C811" height="50" alt="Power BI" />
-  <img src="https://img.shields.io/badge/--1a1b26?style=flat&logo=tableau&logoColor=E97627" height="50" alt="Tableau" />
+  <img src="https://skillicons.dev/icons?i=python,notion" height="50" alt="Python, Notion" />
 </p>
 
 
