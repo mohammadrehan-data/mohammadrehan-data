@@ -23,12 +23,9 @@ I bridge the gap between complex data and strategic business decisions using dat
 
 ---
 ### 🤝 Let's Connect
-<p align="left">
-  <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/googlechrome/#white" alt="Website" width="45" height="45" style="background-color: #1a1a1a; padding: 10px; border-radius: 12px; margin-right: 8px;" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://cdn.simpleicons.org/gmail/#E06666" alt="Email" width="45" height="45" style="background-color: #1a1a1a; padding: 10px; border-radius: 12px; margin-right: 8px;" />
+[![Website](https://img.shields.io/badge/Website-24292e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-24292e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-24292e?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
   </a>
   <a href="https://linkedin.com/in/yourusername" target="_blank">
     <img src="https://cdn.simpleicons.org/linkedin/#0A66C2" alt="LinkedIn" width="45" height="45" style="background-color: #1a1a1a; padding: 10px; border-radius: 12px;" />
