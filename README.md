@@ -19,4 +19,4 @@ I bridge the gap between complex data and strategic business decisions using dat
 ---
 ### 🤝 Let's Connect
 
-[Portfolio](https://yourportfolio.com) • [LinkedIn](https://linkedin.com/in/yourusername) • [Twitter](https://twitter.com/yourusername) • [Email](mailto:your.email@example.com)
+[Portfolio](https://yourportfolio.com) • [LinkedIn](https://linkedin.com/in/yourusername) • [Email](contact.mohammadrehan@gmail.com)
