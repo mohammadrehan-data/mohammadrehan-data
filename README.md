@@ -9,14 +9,12 @@ I bridge the gap between complex data and strategic business decisions using dat
 
 
 - ### 🛠️ Tech Stack
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" style="background-color: #1a1a1a; padding: 10px; border-radius: 12px; margin-right: 8px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL" width="50" height="50" style="background-color: #1a1a1a; padding: 10px; border-radius: 12px; margin-right: 8px;" />
-  <img src="https://cdn.simpleicons.org/powerbi/#F2C811" alt="Power BI" width="50" height="50" style="background-color: #1a1a1a; padding: 10px; border-radius: 12px; margin-right: 8px;" />
-  <img src="https://cdn.simpleicons.org/tableau/#E97627" alt="Tableau" width="50" height="50" style="background-color: #1a1a1a; padding: 10px; border-radius: 12px; margin-right: 8px;" />
-  <img src="https://cdn.simpleicons.org/microsoftexcel/#217346" alt="Excel" width="50" height="50" style="background-color: #1a1a1a; padding: 10px; border-radius: 12px;" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
+
+### 📈 Featured Projects
+*   **[Project Name](Link to Repo):** Financial Performance Dashboard built in Power BI, tracking $2M+ in revenue across 5 regions.
+*   **[Project Name](Link to Repo):** E-commerce Customer Segmentation using Python (K-Means Clustering) and SQL for data extraction.
 
 ### 📈 Featured Projects
 *   **[Project Name](Link to Repo):** Financial Performance Dashboard built in Power BI, tracking $2M+ in revenue across 5 regions.
