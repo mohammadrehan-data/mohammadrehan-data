@@ -10,12 +10,12 @@ I bridge the gap between complex data and strategic business decisions using dat
 
 ### 🧰 Tech Stack & Tools
 <p align="left">
-  <img src="./icons/python.png" width="50" height="50" alt="Python" style="margin-right: 10px;" />
-  <img src="./icons/sql.svg" width="50" height="50" alt="Excel" style="margin-right: 10px;" />
-   <img src="./icons/sql.svg" width="50" height="50" alt="Power Bi" style="margin-right: 10px;" />
-   <img src="./icons/sql.svg" width="50" height="50" alt="Tableau" style="margin-right: 10px;" />
-   <img src="./icons/sql.svg" width="50" height="50" alt="SQL" style="margin-right: 10px;" />
-   <img src="./icons/sql.svg" width="50" height="50" alt="Notion" style="margin-right: 10px;" />
+  <img src="./Python.jpg" width="50" height="50" alt="Python" style="margin-right: 10px;" />
+  <img src="./Power Bi.jpg" width="50" height="50" alt="Power Bi" style="margin-right: 10px;" />
+   <img src="./sql2.jpg" width="50" height="50" alt="SQL" style="margin-right: 10px;" />
+   <img src="./Tableau.jpg" width="50" height="50" alt="Tableau" style="margin-right: 10px;" />
+   <img src="./Microsoft Excel.jpg" width="50" height="50" alt="Excel" style="margin-right: 10px;" />
+   <img src="./Notion.jpg" width="50" height="50" alt="Notion" style="margin-right: 10px;" />
 </p>
    
      
