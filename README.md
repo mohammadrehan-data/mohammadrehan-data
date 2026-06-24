@@ -54,5 +54,7 @@ I bridge the gap between complex data and strategic business decisions using dat
   </a>&nbsp;&nbsp;
   
   <!-- Email -->
-<span style="display: inline-block; vertical-align: middle; margin-left: 8px;">[![Gmail](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=contact.mohammadrehan@gmail.com)</span>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=contact.mohammadrehan@gmail.com" target="_blank" style="display: inline-block; vertical-align: middle; margin-left: 8px;">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" style="height: 40px; display: block;" />
+</a>
 </p>
