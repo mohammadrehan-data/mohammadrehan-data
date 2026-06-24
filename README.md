@@ -4,7 +4,7 @@
 I bridge the gap between complex data and strategic business decisions using data visualization, statistical analysis, and predictive modeling.
 
 - 🔭 **Current Focus:** Building automated ETL pipelines and interactive dashboards.
-- 🎓 **Background:** [Your Degree or relevant background, e.g., B.S. in Statistics / Self-taught Data Enthusiast]
+- 🎓 **Background:** [Bachelor's of Computer Applications / Self-taught Data Enthusiast]
 - 🌱 **Learning:** Advanced Python automation and cloud data warehousing (AWS/Snowflake).
 
 
@@ -54,7 +54,7 @@ I bridge the gap between complex data and strategic business decisions using dat
   </a>&nbsp;&nbsp;
   
   <!-- Email -->
-  <a href="mailto:APNA_EMAIL_HERE@gmail.com">
+  <a href="mailto:contact.mohammadrehan@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40" />
   </a>
 </p>
