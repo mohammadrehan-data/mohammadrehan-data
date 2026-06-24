@@ -54,7 +54,5 @@ I bridge the gap between complex data and strategic business decisions using dat
   </a>&nbsp;&nbsp;
   
   <!-- Email -->
-  <a href="mailto:contact.mohammadrehan@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40" />
-  </a>
+ <a href="mailto:contact.mohammadrehan@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" /></a>
 </p>
