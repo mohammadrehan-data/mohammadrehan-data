@@ -10,8 +10,13 @@ I bridge the gap between complex data and strategic business decisions using dat
 
 ### 🧰 Tech Stack & Tools
 <p align="left">
-</p>
-   
+  <img src="python.png" width="50" height="50" alt="Python" />
+   <img src="power-bi.png" width="50" height="50" alt="Power-Bi" />
+   <img src="tableau.png" width="50" height="50" alt="Tableau" />
+   <img src="sql.png" width="50" height="50" alt="SQL" />
+   <img src="excel.png" width="50" height="50" alt="Excel" />
+   <img src="notion.png" width="50" height="50" alt="Notion" />
+</p>   
      
 
 ### 📈 Featured Projects
