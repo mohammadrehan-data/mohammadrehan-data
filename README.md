@@ -49,7 +49,7 @@ I bridge the gap between complex data and strategic business decisions using dat
   </a>&nbsp;&nbsp;
   
   <!-- LinkedIn -->
-  <a href="APNI_LINKEDIN_PROFILE_KA_LINK_HERE" target="_blank">
+  <a href="https://www.linkedin.com/in/mohammad-rehan-61627341b/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
   </a>&nbsp;&nbsp;
   
