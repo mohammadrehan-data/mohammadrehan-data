@@ -3,7 +3,7 @@
 
 I bridge the gap between complex data and strategic business decisions using data visualization, statistical analysis, and predictive modeling.
 
-- 🔭 **Current Focus:** 
+- 🎯**Current Focus:** 
 - 🎓 **Background:** Bachelor's of Computer Applications / Data Analyst.
 - 🌱 **Learning:** 
 
