@@ -29,7 +29,6 @@ I bridge the gap between complex data and strategic business decisions using dat
 
 
 ## 📊 My GitHub Analytics
-<h2 align="left">📊 My GitHub Analytics</h2>
 
 <p align="center">
   <!-- 1. Paste your original GitHub Stats URL here -->
