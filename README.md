@@ -1,10 +1,10 @@
-# Hi, I'm [Mohamamd Rehan] 👋 
+# Hi, I'm Mohamamd Rehan 👋 
 ### Data Analyst
 
 I bridge the gap between complex data and strategic business decisions using data visualization, statistical analysis, and predictive modeling.
 
 - 🔭 **Current Focus:** Building automated ETL pipelines and interactive dashboards.
-- 🎓 **Background:** [Bachelor's of Computer Applications / Self-taught Data Enthusiast]
+- 🎓 **Background:** Bachelor's of Computer Applications / Self-taught Data Enthusiast
 - 🌱 **Learning:** Advanced Python automation and cloud data warehousing (AWS/Snowflake).
 
 
