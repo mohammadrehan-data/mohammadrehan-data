@@ -30,10 +30,9 @@ I bridge the gap between complex data and strategic business decisions using dat
 
 ## 📊 My GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammad-rehan&show_icons=true&theme=tokyonight" height="195" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=mohammad-rehan&theme=tokyonight" height="195" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-rehan&layout=compact&theme=tokyonight" height="195" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api?username=mohammad-rehan&show_icons=true&theme=tokyonight&v=1" height="195" alt="GitHub Stats" /><img src="https://streak-stats.demolab.com/?user=mohammad-rehan&theme=tokyonight&v=1" height="195" alt="GitHub Streak" /><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mohammad-rehan&layout=compact&theme=tokyonight&v=1" height="195" alt="Top Languages" />
 </p>
+
 
 ---
 ### 🤝 Let's Connect
