@@ -10,13 +10,13 @@ I bridge the gap between complex data and strategic business decisions using dat
 
 ### 🧰 Tech Stack & Tools
 <p align="left">
-  <img src="python.png" width="50" height="50" alt="Python" />
-   <img src="power-bi.png" width="50" height="50" alt="Power-Bi" />
-   <img src="tableau.png" width="50" height="50" alt="Tableau" />
-   <img src="sql.png" width="50" height="50" alt="SQL" />
-   <img src="excel.png" width="50" height="50" alt="Excel" />
-   <img src="notion.png" width="50" height="50" alt="Notion" />
-</p>   
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL / PostgreSQL" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+</p>
      
 
 ### 📈 Featured Projects
@@ -43,17 +43,13 @@ I bridge the gap between complex data and strategic business decisions using dat
 ### 🤝 Let's Connect
   <!-- Portfolio Website -->
 <p align="left">
-<a href="APNI_WEBSITE_KA_LINK_HERE" target="_blank">
-    <img src="./globe.png" alt="Website" height="40" width="40" style="vertical-align: middle;" />
-  </a>&nbsp;&nbsp;
-  
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/mohammad-rehan-61627341b/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
-  </a>&nbsp;&nbsp;
-  
-  <!-- Email -->
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=work.mohammadrehan@gmail.com" target="_blank" style="display: inline-block; vertical-align: middle; margin-left: 8px;">
-  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" style="height: 40px; display: block;" />
-</a>
+  <a href="YOUR_PORTFOLIO_URL_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=homepage&logoColor=white" alt="Website" />
+  </a>
+  <a href="YOUR_LINKEDIN_URL_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:YOUR_EMAIL_HERE">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
