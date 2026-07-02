@@ -42,10 +42,7 @@ I bridge the gap between complex data and strategic business decisions using dat
 ---
 ### 🤝 Let's Connect
   <!-- Portfolio Website -->
-<p align="left">
-  <a href="https://mohammadrehan-data.github.io/portfolio/" target="_blank">
- <img src="https://img.icons8.com/fluent/48/000000/domain.png" width="35" height="35" alt="Portfolio" />
-</a>
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-121212?style=for-the-badge&logo=linktree&logoColor=white)](YOUR_PORTFOLIO_URL_HERE)
   <a href="https://www.linkedin.com/in/mohammadrehan-/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
