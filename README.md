@@ -44,4 +44,4 @@ I bridge the gap between complex data and strategic business decisions using dat
   <!-- Portfolio Website -->
 <a href="https://mohammadrehan-data.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-121212?style=for-the-badge&logo=linktree&logoColor=white" alt="Portfolio"></a>
 <a href="https://www.linkedin.com/in/mohammadrehan-/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:https://mail.google.com/mail/?view=cm&fs=1&to=work.mohammadrehan@gmail.com" target="_blank"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=work.mohammadrehan@gmail.com" target="_blank"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
