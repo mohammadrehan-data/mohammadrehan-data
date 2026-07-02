@@ -28,16 +28,26 @@ I bridge the gap between complex data and strategic business decisions using dat
 *   **[Project Name](Link to Repo):** E-commerce Customer Segmentation using Python (K-Means Clustering) and SQL for data extraction.
 
 
-### 📈 My GitHub Analytics
+## 📊 My GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=mohammadrehan-data&show_icons=true&theme=radical" alt="GitHub Stats" width="45%" />
+  <!-- GitHub Stats Card -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Mohammad-Rehan&show_icons=true&theme=tokyonight&rank_icon=github" alt="Mohammad Rehan's GitHub Stats" height="195" />
+  </a>
   
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=mohammadrehan-data&layout=compact&theme=radical" alt="Top Languages" width="45%" />
+  <!-- Top Languages Card (Replaces the duplicate stats card) -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Rehan&layout=compact&theme=tokyonight" alt="Top Languages" height="195" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadrehan-data" alt="GitHub Streak" />
+  <!-- GitHub Streak Card -->
+  <a href="https://github.com/ DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammad-Rehan&theme=tokyonight" alt="GitHub Streak" />
+  </a>
 </p>
+
 
 ---
 ### 🤝 Let's Connect
