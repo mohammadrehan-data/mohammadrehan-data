@@ -29,8 +29,6 @@ I bridge the gap between complex data and strategic business decisions using dat
 
 
 ## 📊 My GitHub Analytics
-<h2 align="left">📊 My GitHub Analytics</h2>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohammad-rehan&show_icons=true&theme=tokyonight" height="195" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=mohammad-rehan&theme=tokyonight" height="195" alt="GitHub Streak" />
