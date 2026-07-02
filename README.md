@@ -29,8 +29,15 @@ I bridge the gap between complex data and strategic business decisions using dat
 
 
 ## 📊 My GitHub Analytics
+<!-- Row 1: The two main cards side-by-side -->
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=mohammad-rehan&show_icons=true&theme=tokyonight&v=4" height="130" alt="GitHub Stats" /><img src="https://streak-stats.demolab.com/?user=mohammad-rehan&theme=tokyonight&starting_year=2026&v=4" height="130" alt="GitHub Streak" /><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mohammad-rehan&layout=compact&theme=tokyonight&v=4" height="130" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api?username=mohammad-rehan&show_icons=true&theme=tokyonight&v=5" height="195" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=mohammad-rehan&theme=tokyonight&starting_year=2026&v=5" height="195" alt="GitHub Streak" />
+</p>
+
+<!-- Row 2: The languages card centered underneath -->
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mohammad-rehan&layout=compact&theme=tokyonight&v=5" height="120" alt="Top Languages" />
 </p>
 
 ---
