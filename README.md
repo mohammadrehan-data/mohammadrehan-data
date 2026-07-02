@@ -29,16 +29,15 @@ I bridge the gap between complex data and strategic business decisions using dat
 
 
 ## 📊 My GitHub Analytics
-<!-- Row 1: The two main cards side-by-side -->
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=mohammad-rehan&show_icons=true&theme=tokyonight&v=5" height="195" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=mohammad-rehan&theme=tokyonight&starting_year=2026&v=5" height="195" alt="GitHub Streak" />
+  <!-- Top Row (2 cards) -->
+  <img src="https://github-readme-stats.shion.dev/api?username=mohammad-rehan&show_icons=true&theme=tokyonight&v=6" height="195" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=mohammad-rehan&theme=tokyonight&starting_year=2026&v=6" height="195" alt="GitHub Streak" />
+  <br />
+  <!-- Bottom Row (Most Used Languages card with controlled top gap) -->
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mohammad-rehan&layout=compact&theme=tokyonight&v=6" height="120" style="margin-top: 5px;" alt="Top Languages" />
 </p>
 
-<!-- Row 2: The languages card centered underneath -->
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mohammad-rehan&layout=compact&theme=tokyonight&v=5" height="120" alt="Top Languages" />
-</p>
 
 ---
 ### 🤝 Let's Connect
