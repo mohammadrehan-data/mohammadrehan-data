@@ -30,22 +30,9 @@ I bridge the gap between complex data and strategic business decisions using dat
 
 ## 📊 My GitHub Analytics
 <p align="center">
-  <!-- GitHub Stats Card (Using a working stable mirror) -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.shion.dev/api?username=Mohammad-Rehan&show_icons=true&theme=tokyonight&rank_icon=github" alt="Mohammad Rehan's GitHub Stats" height="195" />
-  </a>
-  
-  <!-- Top Languages Card (Using a working stable mirror) -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Mohammad-Rehan&layout=compact&theme=tokyonight" alt="Top Languages" height="195" />
-  </a>
-</p>
-
-<p align="center">
-  <!-- GitHub Streak Card -->
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammad-Rehan&theme=tokyonight" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammad-rehan&show_icons=true&theme=tokyonight" height="195" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammad-rehan&theme=tokyonight" height="195" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-rehan&layout=compact&theme=tokyonight" height="195" alt="Top Languages" />
 </p>
   
 
