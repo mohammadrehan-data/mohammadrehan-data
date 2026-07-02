@@ -29,12 +29,18 @@ I bridge the gap between complex data and strategic business decisions using dat
 
 
 ## 📊 My GitHub Analytics
+<h2 align="left">📊 My GitHub Analytics</h2>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammad-rehan&show_icons=true&theme=tokyonight" height="195" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammad-rehan&theme=tokyonight" height="195" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-rehan&layout=compact&theme=tokyonight" height="195" alt="Top Languages" />
-</p>
+  <!-- 1. Paste your original GitHub Stats URL here -->
+  <img src="YOUR_ORIGINAL_STATS_URL_HERE" height="195" alt="GitHub Stats" />
   
+  <!-- 2. Paste your original Streak Stats URL here -->
+  <img src="YOUR_ORIGINAL_STREAK_URL_HERE" height="195" alt="GitHub Streak" />
+  
+  <!-- 3. Paste your original Top Languages URL here -->
+  <img src="YOUR_ORIGINAL_LANGUAGES_URL_HERE" height="195" alt="Top Languages" />
+</p>
 
 ---
 ### 🤝 Let's Connect
