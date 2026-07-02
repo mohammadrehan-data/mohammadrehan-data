@@ -3,9 +3,9 @@
 
 I bridge the gap between complex data and strategic business decisions using data visualization, statistical analysis, and predictive modeling.
 
-- 🔭 **Current Focus:** Building automated ETL pipelines and interactive dashboards.
-- 🎓 **Background:** Bachelor's of Computer Applications / Self-taught Data Enthusiast
-- 🌱 **Learning:** Advanced Python automation and cloud data warehousing (AWS/Snowflake).
+- 🔭 **Current Focus:** 
+- 🎓 **Background:** Bachelor's of Computer Applications / Data Analyst.
+- 🌱 **Learning:** 
 
 
 ### 🧰 Tech Stack & Tools
@@ -20,12 +20,12 @@ I bridge the gap between complex data and strategic business decisions using dat
      
 
 ### 📈 Featured Projects
-*   **[Project Name](Link to Repo):** Financial Performance Dashboard built in Power BI, tracking $2M+ in revenue across 5 regions.
-*   **[Project Name](Link to Repo):** E-commerce Customer Segmentation using Python (K-Means Clustering) and SQL for data extraction.
+*   **Project NameLink to Repo:** 
+*   **Project NameLink to Repo:**
 
 ### 📈 Featured Projects
-*   **[Project Name](Link to Repo):** Financial Performance Dashboard built in Power BI, tracking $2M+ in revenue across 5 regions.
-*   **[Project Name](Link to Repo):** E-commerce Customer Segmentation using Python (K-Means Clustering) and SQL for data extraction.
+*   **Project Name Link to Repo:** 
+*   **Project Name Link to Repo:** 
 
 
 ## 📊 My GitHub Analytics
